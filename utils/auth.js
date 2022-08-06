@@ -6,4 +6,4 @@ const withAuth = (req, res, next) => {
     }
 };
 
-modeul.exports = withAuth;
+module.exports = withAuth;
